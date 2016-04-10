@@ -36,7 +36,7 @@ node_modules
 /.idea
 
 #angular-seed-test
-/e2e-test
+/e2e-tests
 
 #bower coponents
 /app/bower_components
